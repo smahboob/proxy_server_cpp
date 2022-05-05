@@ -3,6 +3,12 @@
 ### Getting Started
 There are two requirements before getting started on this project: a C++11 compiler (likely the case for any computer < 5 years old) and [CMake](https://cmake.org/download/) (3.0 or greater). Follow the instructions on the website to install CMake. Afterwards, when opening a new terminal, typing cmake should prompt you with a usage message.
 
+#### Prerequisite
+```
+brew install boost (MacOS)
+sudo apt install boost (Linux)
+```
+
 After installing these prerequisites, you should be able to compile the code provided in this repositoy. First, you need to clone this to your machine:
 
 ```
