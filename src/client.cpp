@@ -119,7 +119,7 @@ int main(int argc, char **argv)
         std::cout << "3) Remove keyword from filter list" << std::endl;
         std::cout << "4) View blocked keywords" << std::endl;
         std::cout << "5) Exit" << std::endl;
-        std::cout << "Choose a number (1-4): ";
+        std::cout << "Choose a number (1-5): ";
         std::cin >> choice;
 
         try
